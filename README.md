@@ -33,3 +33,13 @@ npm run dist
 ```
 
 Electro-Dash is Fully Open Source, So all contributions are welcome: use-cases, documentation, code, patches, bug reports, feature requests, etc. You do not need to be a programmer to speak up!
+
+## Few Screens
+
+![Main Page](https://i.imgur.com/72uXeOm.png?raw=true)<br/>  
+
+![Graphs](https://i.imgur.com/HVHs1qP.png?raw=true)<br/>  
+
+![Table view](https://i.imgur.com/GmzRBDF.png?raw=true)<br/>  
+
+![Dark mode](https://i.imgur.com/rh3d59U.png?raw=true)<br/>  
